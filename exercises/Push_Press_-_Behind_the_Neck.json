@@ -1,5 +1,6 @@
 {
   "name": "Push Press - Behind the Neck",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Return to the starting position, using your legs to absorb the impact."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Push_Press_-_Behind_the_Neck/0.jpg",
-    "Push_Press_-_Behind_the_Neck/1.jpg"
-  ],
   "id": "Push_Press_-_Behind_the_Neck"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Turkish Get-Up (Lunge style)",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "While looking up at the kettlebell, slowly stand up. Reverse the motion back to the starting position and repeat."
   ],
   "category": "strength",
-  "images": [
-    "Kettlebell_Turkish_Get-Up_Lunge_style/0.jpg",
-    "Kettlebell_Turkish_Get-Up_Lunge_style/1.jpg"
-  ],
   "id": "Kettlebell_Turkish_Get-Up_Lunge_style"
 }

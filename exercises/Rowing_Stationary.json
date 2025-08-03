@@ -1,5 +1,6 @@
 {
   "name": "Rowing, Stationary",
+  "altNames": [],
   "force": null,
   "level": "intermediate",
   "mechanic": null,
@@ -21,9 +22,5 @@
     "The recovery phase simply involves straightening your arms, bending the knees, and bringing your body forward again as you transition back into the first phase."
   ],
   "category": "cardio",
-  "images": [
-    "Rowing_Stationary/0.jpg",
-    "Rowing_Stationary/1.jpg"
-  ],
   "id": "Rowing_Stationary"
 }

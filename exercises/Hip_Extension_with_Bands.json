@@ -1,5 +1,6 @@
 {
   "name": "Hip Extension with Bands",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "Return the leg to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Hip_Extension_with_Bands/0.jpg",
-    "Hip_Extension_with_Bands/1.jpg"
-  ],
   "id": "Hip_Extension_with_Bands"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Band Pull Apart",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,9 +19,5 @@
     "Pause as you complete the movement, returning to the starting position under control."
   ],
   "category": "strength",
-  "images": [
-    "Band_Pull_Apart/0.jpg",
-    "Band_Pull_Apart/1.jpg"
-  ],
   "id": "Band_Pull_Apart"
 }

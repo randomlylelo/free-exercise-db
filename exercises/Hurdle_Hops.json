@@ -1,5 +1,6 @@
 {
   "name": "Hurdle Hops",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "Absorb the impact of landing by bending the knees, rebounding out of the first leap by jumping over the next hurdle. Continue until you have jumped over all of the hurdles."
   ],
   "category": "plyometrics",
-  "images": [
-    "Hurdle_Hops/0.jpg",
-    "Hurdle_Hops/1.jpg"
-  ],
   "id": "Hurdle_Hops"
 }

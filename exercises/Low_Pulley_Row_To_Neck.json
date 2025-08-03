@@ -1,5 +1,6 @@
 {
   "name": "Low Pulley Row To Neck",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Low_Pulley_Row_To_Neck/0.jpg",
-    "Low_Pulley_Row_To_Neck/1.jpg"
-  ],
   "id": "Low_Pulley_Row_To_Neck"
 }

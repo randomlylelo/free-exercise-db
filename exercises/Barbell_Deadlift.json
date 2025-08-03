@@ -1,5 +1,6 @@
 {
   "name": "Barbell Deadlift",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,9 +26,5 @@
     "Perform the amount of repetitions prescribed in the program."
   ],
   "category": "strength",
-  "images": [
-    "Barbell_Deadlift/0.jpg",
-    "Barbell_Deadlift/1.jpg"
-  ],
   "id": "Barbell_Deadlift"
 }

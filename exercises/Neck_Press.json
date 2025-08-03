@@ -1,5 +1,6 @@
 {
   "name": "Neck Press",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "When you are done, place the bar back in the rack."
   ],
   "category": "strength",
-  "images": [
-    "Neck_Press/0.jpg",
-    "Neck_Press/1.jpg"
-  ],
   "id": "Neck_Press"
 }

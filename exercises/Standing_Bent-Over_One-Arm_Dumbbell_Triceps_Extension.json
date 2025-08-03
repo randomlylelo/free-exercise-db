@@ -1,5 +1,6 @@
 {
   "name": "Standing Bent-Over One-Arm Dumbbell Triceps Extension",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,9 +20,5 @@
     "Switch arms and repeat the exercise."
   ],
   "category": "strength",
-  "images": [
-    "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/0.jpg",
-    "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension/1.jpg"
-  ],
   "id": "Standing_Bent-Over_One-Arm_Dumbbell_Triceps_Extension"
 }

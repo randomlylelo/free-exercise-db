@@ -1,5 +1,6 @@
 {
   "name": "Single-Leg Hop Progression",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "At the end, turn around and go back on the other leg."
   ],
   "category": "plyometrics",
-  "images": [
-    "Single-Leg_Hop_Progression/0.jpg",
-    "Single-Leg_Hop_Progression/1.jpg"
-  ],
   "id": "Single-Leg_Hop_Progression"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Smith Single-Leg Split Squat",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,9 +23,5 @@
     "Switch legs and repeat the movement."
   ],
   "category": "strength",
-  "images": [
-    "Smith_Single-Leg_Split_Squat/0.jpg",
-    "Smith_Single-Leg_Split_Squat/1.jpg"
-  ],
   "id": "Smith_Single-Leg_Split_Squat"
 }

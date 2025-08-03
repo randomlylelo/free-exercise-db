@@ -1,5 +1,6 @@
 {
   "name": "Single-Leg High Box Squat",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     ". Continue stepping up and down on the same leg before switching to the opposite side."
   ],
   "category": "strength",
-  "images": [
-    "Single-Leg_High_Box_Squat/0.jpg",
-    "Single-Leg_High_Box_Squat/1.jpg"
-  ],
   "id": "Single-Leg_High_Box_Squat"
 }

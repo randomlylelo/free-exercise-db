@@ -1,5 +1,6 @@
 {
   "name": "Incline Dumbbell Bench With Palms Facing In",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "When you are done, place the dumbbells back in your thighs and then on the floor. This is the safest manner to dispose of the dumbbells."
   ],
   "category": "strength",
-  "images": [
-    "Incline_Dumbbell_Bench_With_Palms_Facing_In/0.jpg",
-    "Incline_Dumbbell_Bench_With_Palms_Facing_In/1.jpg"
-  ],
   "id": "Incline_Dumbbell_Bench_With_Palms_Facing_In"
 }

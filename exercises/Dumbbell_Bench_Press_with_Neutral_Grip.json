@@ -1,5 +1,6 @@
 {
   "name": "Dumbbell Bench Press with Neutral Grip",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Pause, then extend the elbow and return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Dumbbell_Bench_Press_with_Neutral_Grip/0.jpg",
-    "Dumbbell_Bench_Press_with_Neutral_Grip/1.jpg"
-  ],
   "id": "Dumbbell_Bench_Press_with_Neutral_Grip"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Clean and Press",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -29,9 +30,5 @@
     "Without moving your feet, press the bar overhead as you exhale. Lower the bar under control ."
   ],
   "category": "strength",
-  "images": [
-    "Clean_and_Press/0.jpg",
-    "Clean_and_Press/1.jpg"
-  ],
   "id": "Clean_and_Press"
 }

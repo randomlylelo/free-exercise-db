@@ -1,5 +1,6 @@
 {
   "name": "Extended Range One-Arm Kettlebell Floor Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,9 +17,5 @@
     "Press the kettlebell by extending the elbow and adducting the arm, pressing it above your body. Return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Extended_Range_One-Arm_Kettlebell_Floor_Press/0.jpg",
-    "Extended_Range_One-Arm_Kettlebell_Floor_Press/1.jpg"
-  ],
   "id": "Extended_Range_One-Arm_Kettlebell_Floor_Press"
 }

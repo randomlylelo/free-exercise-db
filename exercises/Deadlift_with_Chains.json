@@ -1,5 +1,6 @@
 {
   "name": "Deadlift with Chains",
+  "altNames": [],
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -22,9 +23,5 @@
     "Lower the bar by bending at the hips and guiding it to the floor."
   ],
   "category": "powerlifting",
-  "images": [
-    "Deadlift_with_Chains/0.jpg",
-    "Deadlift_with_Chains/1.jpg"
-  ],
   "id": "Deadlift_with_Chains"
 }

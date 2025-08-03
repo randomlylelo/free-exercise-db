@@ -1,5 +1,6 @@
 {
   "name": "Sled Row",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Take a step or two back to get tension in the line and repeat."
   ],
   "category": "strength",
-  "images": [
-    "Sled_Row/0.jpg",
-    "Sled_Row/1.jpg"
-  ],
   "id": "Sled_Row"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Narrow Stance Leg Press",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Repeat for the recommended amount of repetitions and ensure to lock the safety pins properly once you are done. You do not want that platform falling on you fully loaded."
   ],
   "category": "strength",
-  "images": [
-    "Narrow_Stance_Leg_Press/0.jpg",
-    "Narrow_Stance_Leg_Press/1.jpg"
-  ],
   "id": "Narrow_Stance_Leg_Press"
 }

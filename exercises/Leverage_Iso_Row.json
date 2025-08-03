@@ -1,5 +1,6 @@
 {
   "name": "Leverage Iso Row",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "Pause at the bottom of the motion, and then slowly return the handles to the starting position. For multiple repetitions, avoid completely returning the weight to the stops to keep tension on the muscles being worked."
   ],
   "category": "strength",
-  "images": [
-    "Leverage_Iso_Row/0.jpg",
-    "Leverage_Iso_Row/1.jpg"
-  ],
   "id": "Leverage_Iso_Row"
 }

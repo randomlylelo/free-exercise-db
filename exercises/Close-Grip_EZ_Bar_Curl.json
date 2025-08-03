@@ -1,5 +1,6 @@
 {
   "name": "Close-Grip EZ Bar Curl",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,9 +19,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Close-Grip_EZ_Bar_Curl/0.jpg",
-    "Close-Grip_EZ_Bar_Curl/1.jpg"
-  ],
   "id": "Close-Grip_EZ_Bar_Curl"
 }

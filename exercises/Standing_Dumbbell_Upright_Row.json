@@ -1,5 +1,6 @@
 {
   "name": "Standing Dumbbell Upright Row",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Standing_Dumbbell_Upright_Row/0.jpg",
-    "Standing_Dumbbell_Upright_Row/1.jpg"
-  ],
   "id": "Standing_Dumbbell_Upright_Row"
 }

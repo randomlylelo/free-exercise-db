@@ -1,5 +1,6 @@
 {
   "name": "Alternate Hammer Curl",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,9 +20,5 @@
     "Continue alternating in this manner for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Alternate_Hammer_Curl/0.jpg",
-    "Alternate_Hammer_Curl/1.jpg"
-  ],
   "id": "Alternate_Hammer_Curl"
 }

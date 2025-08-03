@@ -1,5 +1,6 @@
 {
   "name": "Bottoms-Up Clean From The Hang Position",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,9 +17,5 @@
     "Swing the kettlebell back forcefully and then reverse the motion forcefully. Crush the kettlebell handle as hard as possible and raise the kettlebell to your shoulder."
   ],
   "category": "strength",
-  "images": [
-    "Bottoms-Up_Clean_From_The_Hang_Position/0.jpg",
-    "Bottoms-Up_Clean_From_The_Hang_Position/1.jpg"
-  ],
   "id": "Bottoms-Up_Clean_From_The_Hang_Position"
 }

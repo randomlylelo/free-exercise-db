@@ -1,5 +1,6 @@
 {
   "name": "Cable Shoulder Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "After pausing at the top, return to the starting position and repeat."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Shoulder_Press/0.jpg",
-    "Cable_Shoulder_Press/1.jpg"
-  ],
   "id": "Cable_Shoulder_Press"
 }

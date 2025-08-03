@@ -1,5 +1,6 @@
 {
   "name": "Medicine Ball Full Twist",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "Pass the ball to your partner, and both of you can now twist in the opposite direction to repeat the procedure."
   ],
   "category": "plyometrics",
-  "images": [
-    "Medicine_Ball_Full_Twist/0.jpg",
-    "Medicine_Ball_Full_Twist/1.jpg"
-  ],
   "id": "Medicine_Ball_Full_Twist"
 }

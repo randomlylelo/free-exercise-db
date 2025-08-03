@@ -1,5 +1,6 @@
 {
   "name": "Decline Close-Grip Bench To Skull Crusher",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "Repeat steps 3-6 until the recommended amount of repetitions is performed."
   ],
   "category": "strength",
-  "images": [
-    "Decline_Close-Grip_Bench_To_Skull_Crusher/0.jpg",
-    "Decline_Close-Grip_Bench_To_Skull_Crusher/1.jpg"
-  ],
   "id": "Decline_Close-Grip_Bench_To_Skull_Crusher"
 }

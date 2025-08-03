@@ -1,5 +1,6 @@
 {
   "name": "Dumbbell Scaption",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,9 +17,5 @@
     "Continue until your arms are parallel to the ground, and then return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Dumbbell_Scaption/0.jpg",
-    "Dumbbell_Scaption/1.jpg"
-  ],
   "id": "Dumbbell_Scaption"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Kneeling High Pulley Row",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "After pausing briefly, slowly return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Kneeling_High_Pulley_Row/0.jpg",
-    "Kneeling_High_Pulley_Row/1.jpg"
-  ],
   "id": "Kneeling_High_Pulley_Row"
 }

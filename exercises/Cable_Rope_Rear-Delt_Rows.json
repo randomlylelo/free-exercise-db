@@ -1,5 +1,6 @@
 {
   "name": "Cable Rope Rear-Delt Rows",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Rope_Rear-Delt_Rows/0.jpg",
-    "Cable_Rope_Rear-Delt_Rows/1.jpg"
-  ],
   "id": "Cable_Rope_Rear-Delt_Rows"
 }

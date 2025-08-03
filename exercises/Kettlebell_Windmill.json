@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Windmill",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Pause for a second after reaching the ground and reverse the motion back to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Kettlebell_Windmill/0.jpg",
-    "Kettlebell_Windmill/1.jpg"
-  ],
   "id": "Kettlebell_Windmill"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Alternating Renegade Row",
+  "altNames": [],
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Then lower the kettlebell to the floor and begin the kettlebell in the opposite hand. Repeat for several reps."
   ],
   "category": "strength",
-  "images": [
-    "Alternating_Renegade_Row/0.jpg",
-    "Alternating_Renegade_Row/1.jpg"
-  ],
   "id": "Alternating_Renegade_Row"
 }

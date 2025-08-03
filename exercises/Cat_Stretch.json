@@ -1,5 +1,6 @@
 {
   "name": "Cat Stretch",
+  "altNames": [],
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -17,9 +18,5 @@
     "Hold for 15 seconds."
   ],
   "category": "stretching",
-  "images": [
-    "Cat_Stretch/0.jpg",
-    "Cat_Stretch/1.jpg"
-  ],
   "id": "Cat_Stretch"
 }

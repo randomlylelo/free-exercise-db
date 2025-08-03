@@ -1,5 +1,6 @@
 {
   "name": "Spider Crawl",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Return this leg to the starting position and repeat on the opposite side."
   ],
   "category": "strength",
-  "images": [
-    "Spider_Crawl/0.jpg",
-    "Spider_Crawl/1.jpg"
-  ],
   "id": "Spider_Crawl"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Suspended Push-Up",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Continue until your elbows break 90 degrees, pausing before you extend to return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Suspended_Push-Up/0.jpg",
-    "Suspended_Push-Up/1.jpg"
-  ],
   "id": "Suspended_Push-Up"
 }

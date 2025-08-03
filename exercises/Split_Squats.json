@@ -1,5 +1,6 @@
 {
   "name": "Split Squats",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": null,
@@ -17,9 +18,5 @@
     "As you descend, immediately reverse direction, standing back up and jumping, reversing the position of your legs. Repeat 5-10 times on each leg."
   ],
   "category": "stretching",
-  "images": [
-    "Split_Squats/0.jpg",
-    "Split_Squats/1.jpg"
-  ],
   "id": "Split_Squats"
 }

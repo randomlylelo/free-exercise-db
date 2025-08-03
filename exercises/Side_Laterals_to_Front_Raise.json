@@ -1,5 +1,6 @@
 {
   "name": "Side Laterals to Front Raise",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,9 +20,5 @@
     "Lower the weights to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Side_Laterals_to_Front_Raise/0.jpg",
-    "Side_Laterals_to_Front_Raise/1.jpg"
-  ],
   "id": "Side_Laterals_to_Front_Raise"
 }

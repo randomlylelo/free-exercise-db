@@ -1,5 +1,6 @@
 {
   "name": "Plyo Push-up",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "For added difficulty, add claps into the movement while you are air borne."
   ],
   "category": "plyometrics",
-  "images": [
-    "Plyo_Push-up/0.jpg",
-    "Plyo_Push-up/1.jpg"
-  ],
   "id": "Plyo_Push-up"
 }

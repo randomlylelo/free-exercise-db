@@ -1,5 +1,6 @@
 {
   "name": "Chin-Up",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Chin-Up/0.jpg",
-    "Chin-Up/1.jpg"
-  ],
   "id": "Chin-Up"
 }

@@ -1,5 +1,6 @@
 {
   "name": "One-Arm High-Pulley Cable Side Bends",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -7,9 +8,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Connect a standard handle to a tower. Move cable to highest pulley position.",
     "Stand with side to cable. With one hand, reach up and grab handle with underhand grip.",
@@ -21,9 +20,5 @@
     "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
-  "images": [
-    "One-Arm_High-Pulley_Cable_Side_Bends/0.jpg",
-    "One-Arm_High-Pulley_Cable_Side_Bends/1.jpg"
-  ],
   "id": "One-Arm_High-Pulley_Cable_Side_Bends"
 }

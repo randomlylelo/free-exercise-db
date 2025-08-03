@@ -1,5 +1,6 @@
 {
   "name": "Seated Calf Stretch",
+  "altNames": [],
   "force": "static",
   "level": "beginner",
   "mechanic": null,
@@ -18,9 +19,5 @@
     "Using a band, towel, or your hand if you can reach, pull the toes toward you. Hold for 10 to 20 seconds, then switch sides."
   ],
   "category": "stretching",
-  "images": [
-    "Seated_Calf_Stretch/0.jpg",
-    "Seated_Calf_Stretch/1.jpg"
-  ],
   "id": "Seated_Calf_Stretch"
 }

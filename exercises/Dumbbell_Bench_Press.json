@@ -1,5 +1,6 @@
 {
   "name": "Dumbbell Bench Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
-  "images": [
-    "Dumbbell_Bench_Press/0.jpg",
-    "Dumbbell_Bench_Press/1.jpg"
-  ],
   "id": "Dumbbell_Bench_Press"
 }

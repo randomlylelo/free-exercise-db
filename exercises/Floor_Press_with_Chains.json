@@ -1,5 +1,6 @@
 {
   "name": "Floor Press with Chains",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Press the bar back up as fast as you can, keeping the bar, your wrists, and elbows in line as you do so."
   ],
   "category": "powerlifting",
-  "images": [
-    "Floor_Press_with_Chains/0.jpg",
-    "Floor_Press_with_Chains/1.jpg"
-  ],
   "id": "Floor_Press_with_Chains"
 }

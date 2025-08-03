@@ -1,5 +1,6 @@
 {
   "name": "Knee Circles",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "stretching",
-  "images": [
-    "Knee_Circles/0.jpg",
-    "Knee_Circles/1.jpg"
-  ],
   "id": "Knee_Circles"
 }

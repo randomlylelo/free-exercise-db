@@ -1,5 +1,6 @@
 {
   "name": "Rack Pulls",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Return the weight to the pins and repeat."
   ],
   "category": "powerlifting",
-  "images": [
-    "Rack_Pulls/0.jpg",
-    "Rack_Pulls/1.jpg"
-  ],
   "id": "Rack_Pulls"
 }

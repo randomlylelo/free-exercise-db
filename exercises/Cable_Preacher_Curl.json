@@ -1,5 +1,6 @@
 {
   "name": "Cable Preacher Curl",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -20,9 +21,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Preacher_Curl/0.jpg",
-    "Cable_Preacher_Curl/1.jpg"
-  ],
   "id": "Cable_Preacher_Curl"
 }

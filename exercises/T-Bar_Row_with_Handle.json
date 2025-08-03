@@ -1,5 +1,6 @@
 {
   "name": "T-Bar Row with Handle",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "After a brief pause, return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "T-Bar_Row_with_Handle/0.jpg",
-    "T-Bar_Row_with_Handle/1.jpg"
-  ],
   "id": "T-Bar_Row_with_Handle"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Handstand Push-Ups",
+  "altNames": [],
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Handstand_Push-Ups/0.jpg",
-    "Handstand_Push-Ups/1.jpg"
-  ],
   "id": "Handstand_Push-Ups"
 }

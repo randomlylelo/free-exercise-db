@@ -1,5 +1,6 @@
 {
   "name": "Incline Push-Up Medium",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Return to the starting position by extending the elbows, pressing yourself back up."
   ],
   "category": "strength",
-  "images": [
-    "Incline_Push-Up_Medium/0.jpg",
-    "Incline_Push-Up_Medium/1.jpg"
-  ],
   "id": "Incline_Push-Up_Medium"
 }

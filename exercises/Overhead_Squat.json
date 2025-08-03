@@ -1,5 +1,6 @@
 {
   "name": "Overhead Squat",
+  "altNames": [],
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -25,9 +26,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Overhead_Squat/0.jpg",
-    "Overhead_Squat/1.jpg"
-  ],
   "id": "Overhead_Squat"
 }

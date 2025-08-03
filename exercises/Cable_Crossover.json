@@ -1,5 +1,6 @@
 {
   "name": "Cable Crossover",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,9 +19,5 @@
     "Hold for a second at the starting position and repeat the movement for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Crossover/0.jpg",
-    "Cable_Crossover/1.jpg"
-  ],
   "id": "Cable_Crossover"
 }

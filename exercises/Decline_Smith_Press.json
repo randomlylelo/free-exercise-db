@@ -1,5 +1,6 @@
 {
   "name": "Decline Smith Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "When the set is complete, lock the bar back in the rack."
   ],
   "category": "strength",
-  "images": [
-    "Decline_Smith_Press/0.jpg",
-    "Decline_Smith_Press/1.jpg"
-  ],
   "id": "Decline_Smith_Press"
 }

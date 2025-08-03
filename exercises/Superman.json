@@ -1,5 +1,6 @@
 {
   "name": "Superman",
+  "altNames": [],
   "force": "static",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
   "category": "stretching",
-  "images": [
-    "Superman/0.jpg",
-    "Superman/1.jpg"
-  ],
   "id": "Superman"
 }

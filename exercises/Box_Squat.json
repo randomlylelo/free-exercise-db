@@ -1,5 +1,6 @@
 {
   "name": "Box Squat",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "Keeping the weight on your heels and pushing your feet and knees out, drive upward off of the box as you lead the movement with your head. Continue upward, maintaining tightness head to toe."
   ],
   "category": "powerlifting",
-  "images": [
-    "Box_Squat/0.jpg",
-    "Box_Squat/1.jpg"
-  ],
   "id": "Box_Squat"
 }

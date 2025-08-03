@@ -1,5 +1,6 @@
 {
   "name": "Cable Deadlifts",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "After reaching a full standing position, Return to the starting position and repeat."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Deadlifts/0.jpg",
-    "Cable_Deadlifts/1.jpg"
-  ],
   "id": "Cable_Deadlifts"
 }

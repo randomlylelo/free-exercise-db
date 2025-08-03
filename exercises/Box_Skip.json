@@ -1,5 +1,6 @@
 {
   "name": "Box Skip",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -22,9 +23,5 @@
     "Then, step to the next box and repeat."
   ],
   "category": "plyometrics",
-  "images": [
-    "Box_Skip/0.jpg",
-    "Box_Skip/1.jpg"
-  ],
   "id": "Box_Skip"
 }

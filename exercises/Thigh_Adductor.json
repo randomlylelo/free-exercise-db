@@ -1,5 +1,6 @@
 {
   "name": "Thigh Adductor",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,9 +19,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Thigh_Adductor/0.jpg",
-    "Thigh_Adductor/1.jpg"
-  ],
   "id": "Thigh_Adductor"
 }

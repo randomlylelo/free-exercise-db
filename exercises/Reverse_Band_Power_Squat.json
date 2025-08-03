@@ -1,5 +1,6 @@
 {
   "name": "Reverse Band Power Squat",
+  "altNames": [],
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "Keeping the weight on your heels and pushing your feet and knees out, drive upward as you lead the movement with your head. Continue upward, maintaining tightness head to toe, until you have returned to the starting position."
   ],
   "category": "powerlifting",
-  "images": [
-    "Reverse_Band_Power_Squat/0.jpg",
-    "Reverse_Band_Power_Squat/1.jpg"
-  ],
   "id": "Reverse_Band_Power_Squat"
 }

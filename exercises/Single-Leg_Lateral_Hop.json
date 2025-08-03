@@ -1,5 +1,6 @@
 {
   "name": "Single-Leg Lateral Hop",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Continue hopping back and forth."
   ],
   "category": "plyometrics",
-  "images": [
-    "Single-Leg_Lateral_Hop/0.jpg",
-    "Single-Leg_Lateral_Hop/1.jpg"
-  ],
   "id": "Single-Leg_Lateral_Hop"
 }

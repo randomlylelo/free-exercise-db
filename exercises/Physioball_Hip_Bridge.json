@@ -1,5 +1,6 @@
 {
   "name": "Physioball Hip Bridge",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -16,9 +17,5 @@
     "Pause at the top of the motion and return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Physioball_Hip_Bridge/0.jpg",
-    "Physioball_Hip_Bridge/1.jpg"
-  ],
   "id": "Physioball_Hip_Bridge"
 }

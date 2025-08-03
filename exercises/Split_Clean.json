@@ -1,5 +1,6 @@
 {
   "name": "Split Clean",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -25,9 +26,5 @@
     "Immediately recover by driving through the heels, keeping the torso upright and elbows up. Bring the feet together as you stand up."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Split_Clean/0.jpg",
-    "Split_Clean/1.jpg"
-  ],
   "id": "Split_Clean"
 }

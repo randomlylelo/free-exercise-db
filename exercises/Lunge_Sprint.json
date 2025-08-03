@@ -1,5 +1,6 @@
 {
   "name": "Lunge Sprint",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Lunge_Sprint/0.jpg",
-    "Lunge_Sprint/1.jpg"
-  ],
   "id": "Lunge_Sprint"
 }

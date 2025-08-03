@@ -1,5 +1,6 @@
 {
   "name": "Double Kettlebell Alternating Hang Clean",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,9 +23,5 @@
     "With a fluid motion, lower the top kettlebell while driving the bottom kettlebell up."
   ],
   "category": "strength",
-  "images": [
-    "Double_Kettlebell_Alternating_Hang_Clean/0.jpg",
-    "Double_Kettlebell_Alternating_Hang_Clean/1.jpg"
-  ],
   "id": "Double_Kettlebell_Alternating_Hang_Clean"
 }

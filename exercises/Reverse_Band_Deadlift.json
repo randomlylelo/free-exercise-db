@@ -1,5 +1,6 @@
 {
   "name": "Reverse Band Deadlift",
+  "altNames": [],
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -23,9 +24,5 @@
     "Lower the bar by bending at the hips and guiding it to the floor."
   ],
   "category": "powerlifting",
-  "images": [
-    "Reverse_Band_Deadlift/0.jpg",
-    "Reverse_Band_Deadlift/1.jpg"
-  ],
   "id": "Reverse_Band_Deadlift"
 }

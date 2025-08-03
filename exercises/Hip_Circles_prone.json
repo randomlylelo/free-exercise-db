@@ -1,5 +1,6 @@
 {
   "name": "Hip Circles (prone)",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,9 +17,5 @@
     "Perform this slowly for a number of repetitions, and repeat on the other side."
   ],
   "category": "stretching",
-  "images": [
-    "Hip_Circles_prone/0.jpg",
-    "Hip_Circles_prone/1.jpg"
-  ],
   "id": "Hip_Circles_prone"
 }

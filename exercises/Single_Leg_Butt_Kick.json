@@ -1,5 +1,6 @@
 {
   "name": "Single Leg Butt Kick",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Return the leg to a partially bent position underneath the hips and land. Your opposite leg should stay in relatively the same position throughout the drill."
   ],
   "category": "plyometrics",
-  "images": [
-    "Single_Leg_Butt_Kick/0.jpg",
-    "Single_Leg_Butt_Kick/1.jpg"
-  ],
   "id": "Single_Leg_Butt_Kick"
 }

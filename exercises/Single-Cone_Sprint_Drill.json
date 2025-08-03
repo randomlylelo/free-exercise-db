@@ -1,5 +1,6 @@
 {
   "name": "Single-Cone Sprint Drill",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": null,
@@ -18,9 +19,5 @@
     "Rest after three trips around the cone."
   ],
   "category": "plyometrics",
-  "images": [
-    "Single-Cone_Sprint_Drill/0.jpg",
-    "Single-Cone_Sprint_Drill/1.jpg"
-  ],
   "id": "Single-Cone_Sprint_Drill"
 }

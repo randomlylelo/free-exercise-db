@@ -1,5 +1,6 @@
 {
   "name": "Iron Cross",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -15,13 +16,7 @@
     "quadriceps",
     "traps"
   ],
-  "instructions": [
-
-  ],
+  "instructions": [],
   "category": "strength",
-  "images": [
-    "Iron_Cross/0.jpg",
-    "Iron_Cross/1.jpg"
-  ],
   "id": "Iron_Cross"
 }

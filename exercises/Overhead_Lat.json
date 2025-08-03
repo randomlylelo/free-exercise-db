@@ -1,5 +1,6 @@
 {
   "name": "Overhead Lat",
+  "altNames": [],
   "force": "static",
   "level": "expert",
   "mechanic": null,
@@ -16,9 +17,5 @@
     "After 10-20 seconds, relax the arm and allow your partner to further stretch the lat by applying gentle pressure to the tricep. Hold for 10-20 seconds, and then switch sides."
   ],
   "category": "stretching",
-  "images": [
-    "Overhead_Lat/0.jpg",
-    "Overhead_Lat/1.jpg"
-  ],
   "id": "Overhead_Lat"
 }

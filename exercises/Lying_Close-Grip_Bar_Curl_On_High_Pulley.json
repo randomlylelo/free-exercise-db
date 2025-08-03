@@ -1,5 +1,6 @@
 {
   "name": "Lying Close-Grip Bar Curl On High Pulley",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -7,9 +8,7 @@
   "primaryMuscles": [
     "biceps"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Place a flat bench in front of a high pulley or lat pulldown machine.",
     "Hold the straight bar attachment using an underhand grip (palms up) that is about shoulder width.",
@@ -20,9 +19,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Lying_Close-Grip_Bar_Curl_On_High_Pulley/0.jpg",
-    "Lying_Close-Grip_Bar_Curl_On_High_Pulley/1.jpg"
-  ],
   "id": "Lying_Close-Grip_Bar_Curl_On_High_Pulley"
 }

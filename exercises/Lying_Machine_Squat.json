@@ -1,5 +1,6 @@
 {
   "name": "Lying Machine Squat",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Lying_Machine_Squat/0.jpg",
-    "Lying_Machine_Squat/1.jpg"
-  ],
   "id": "Lying_Machine_Squat"
 }

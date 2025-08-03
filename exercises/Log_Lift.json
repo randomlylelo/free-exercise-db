@@ -1,5 +1,6 @@
 {
   "name": "Log Lift",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,9 +25,5 @@
     "Repeat as many times as possible. Attempt to control the descent of the log as it is returned to the ground."
   ],
   "category": "strongman",
-  "images": [
-    "Log_Lift/0.jpg",
-    "Log_Lift/1.jpg"
-  ],
   "id": "Log_Lift"
 }

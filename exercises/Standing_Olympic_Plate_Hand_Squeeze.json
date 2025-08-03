@@ -1,5 +1,6 @@
 {
   "name": "Standing Olympic Plate Hand Squeeze",
+  "altNames": [],
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,9 +18,5 @@
     "Repeat for the recommended amount of repetitions prescribed in your program."
   ],
   "category": "strength",
-  "images": [
-    "Standing_Olympic_Plate_Hand_Squeeze/0.jpg",
-    "Standing_Olympic_Plate_Hand_Squeeze/1.jpg"
-  ],
   "id": "Standing_Olympic_Plate_Hand_Squeeze"
 }

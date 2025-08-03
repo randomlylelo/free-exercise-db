@@ -1,5 +1,6 @@
 {
   "name": "One Knee To Chest",
+  "altNames": [],
   "force": "static",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Switch sides. This stretches the buttocks and lower back of the bent leg and the hip flexor of the straight leg."
   ],
   "category": "stretching",
-  "images": [
-    "One_Knee_To_Chest/0.jpg",
-    "One_Knee_To_Chest/1.jpg"
-  ],
   "id": "One_Knee_To_Chest"
 }

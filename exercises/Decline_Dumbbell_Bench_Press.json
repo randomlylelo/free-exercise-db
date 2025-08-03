@@ -1,5 +1,6 @@
 {
   "name": "Decline Dumbbell Bench Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Repeat the movement for the prescribed amount of repetitions of your training program."
   ],
   "category": "strength",
-  "images": [
-    "Decline_Dumbbell_Bench_Press/0.jpg",
-    "Decline_Dumbbell_Bench_Press/1.jpg"
-  ],
   "id": "Decline_Dumbbell_Bench_Press"
 }

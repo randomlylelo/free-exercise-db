@@ -1,5 +1,6 @@
 {
   "name": "Alternating Cable Shoulder Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "After pausing at the top, return to the starting position and repeat on the opposite side."
   ],
   "category": "strength",
-  "images": [
-    "Alternating_Cable_Shoulder_Press/0.jpg",
-    "Alternating_Cable_Shoulder_Press/1.jpg"
-  ],
   "id": "Alternating_Cable_Shoulder_Press"
 }

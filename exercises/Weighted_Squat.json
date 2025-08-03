@@ -1,5 +1,6 @@
 {
   "name": "Weighted Squat",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Weighted_Squat/0.jpg",
-    "Weighted_Squat/1.jpg"
-  ],
   "id": "Weighted_Squat"
 }

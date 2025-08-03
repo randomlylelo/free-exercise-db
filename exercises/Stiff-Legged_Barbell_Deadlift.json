@@ -1,5 +1,6 @@
 {
   "name": "Stiff-Legged Barbell Deadlift",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Stiff-Legged_Barbell_Deadlift/0.jpg",
-    "Stiff-Legged_Barbell_Deadlift/1.jpg"
-  ],
   "id": "Stiff-Legged_Barbell_Deadlift"
 }

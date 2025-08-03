@@ -126,13 +126,11 @@
         "plyometrics"
       ]
     },
-    "images": {
+    "altNames": {
       "type": "array",
-      "items": [
-        {
-          "type": "string"
-        }
-      ]
+      "items": {
+        "type": "string"
+      }
     }
   },
   "required": [
@@ -145,6 +143,6 @@
     "secondaryMuscles",
     "instructions",
     "category",
-    "images"
+    "altNames"
   ]
 }

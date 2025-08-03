@@ -1,5 +1,6 @@
 {
   "name": "Bench Dips",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Bench_Dips/0.jpg",
-    "Bench_Dips/1.jpg"
-  ],
   "id": "Bench_Dips"
 }

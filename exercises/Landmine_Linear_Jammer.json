@@ -1,5 +1,6 @@
 {
   "name": "Landmine Linear Jammer",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,9 +24,5 @@
     "Return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Landmine_Linear_Jammer/0.jpg",
-    "Landmine_Linear_Jammer/1.jpg"
-  ],
   "id": "Landmine_Linear_Jammer"
 }

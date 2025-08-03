@@ -1,5 +1,6 @@
 {
   "name": "All Fours Quad Stretch",
+  "altNames": [],
   "force": "static",
   "level": "intermediate",
   "mechanic": null,
@@ -16,9 +17,5 @@
     "Focus on extending your hips, thrusting them towards the floor. Hold for 10-20 seconds and then switch sides."
   ],
   "category": "stretching",
-  "images": [
-    "All_Fours_Quad_Stretch/0.jpg",
-    "All_Fours_Quad_Stretch/1.jpg"
-  ],
   "id": "All_Fours_Quad_Stretch"
 }

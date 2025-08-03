@@ -1,5 +1,6 @@
 {
   "name": "One Arm Floor Press",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "Switch arms and repeat the movement."
   ],
   "category": "strength",
-  "images": [
-    "One_Arm_Floor_Press/0.jpg",
-    "One_Arm_Floor_Press/1.jpg"
-  ],
   "id": "One_Arm_Floor_Press"
 }

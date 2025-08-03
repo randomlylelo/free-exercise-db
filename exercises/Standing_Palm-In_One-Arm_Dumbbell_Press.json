@@ -1,5 +1,6 @@
 {
   "name": "Standing Palm-In One-Arm Dumbbell Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Switch arms and repeat the exercise."
   ],
   "category": "strength",
-  "images": [
-    "Standing_Palm-In_One-Arm_Dumbbell_Press/0.jpg",
-    "Standing_Palm-In_One-Arm_Dumbbell_Press/1.jpg"
-  ],
   "id": "Standing_Palm-In_One-Arm_Dumbbell_Press"
 }

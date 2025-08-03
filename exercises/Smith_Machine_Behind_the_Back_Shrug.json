@@ -1,5 +1,6 @@
 {
   "name": "Smith Machine Behind the Back Shrug",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,9 +19,5 @@
     "Repeat for the desired number of repetitions before engaging the hooks to rack the weight."
   ],
   "category": "strength",
-  "images": [
-    "Smith_Machine_Behind_the_Back_Shrug/0.jpg",
-    "Smith_Machine_Behind_the_Back_Shrug/1.jpg"
-  ],
   "id": "Smith_Machine_Behind_the_Back_Shrug"
 }

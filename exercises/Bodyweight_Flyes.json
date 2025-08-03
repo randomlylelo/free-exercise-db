@@ -1,5 +1,6 @@
 {
   "name": "Bodyweight Flyes",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -20,9 +21,5 @@
     "After moving the bars as far apart as you can, return to the starting position by pulling them back together. Exhale as you perform this movement."
   ],
   "category": "strength",
-  "images": [
-    "Bodyweight_Flyes/0.jpg",
-    "Bodyweight_Flyes/1.jpg"
-  ],
   "id": "Bodyweight_Flyes"
 }

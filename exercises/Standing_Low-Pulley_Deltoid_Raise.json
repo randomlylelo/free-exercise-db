@@ -1,5 +1,6 @@
 {
   "name": "Standing Low-Pulley Deltoid Raise",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,9 +20,5 @@
     "Switch arms and repeat the exercise."
   ],
   "category": "strength",
-  "images": [
-    "Standing_Low-Pulley_Deltoid_Raise/0.jpg",
-    "Standing_Low-Pulley_Deltoid_Raise/1.jpg"
-  ],
   "id": "Standing_Low-Pulley_Deltoid_Raise"
 }

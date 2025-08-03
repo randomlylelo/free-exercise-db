@@ -1,5 +1,6 @@
 {
   "name": "Narrow Stance Squats",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,9 +23,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Narrow_Stance_Squats/0.jpg",
-    "Narrow_Stance_Squats/1.jpg"
-  ],
   "id": "Narrow_Stance_Squats"
 }

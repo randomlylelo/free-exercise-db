@@ -1,5 +1,6 @@
 {
   "name": "Middle Back Stretch",
+  "altNames": [],
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -17,9 +18,5 @@
     "Twist at your waist until you feel a stretch. Hold for 10 to 15 seconds, then twist to the other side."
   ],
   "category": "stretching",
-  "images": [
-    "Middle_Back_Stretch/0.jpg",
-    "Middle_Back_Stretch/1.jpg"
-  ],
   "id": "Middle_Back_Stretch"
 }

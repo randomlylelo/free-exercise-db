@@ -1,5 +1,6 @@
 {
   "name": "Cable Crunch",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -7,9 +8,7 @@
   "primaryMuscles": [
     "abdominals"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Kneel below a high pulley that contains a rope attachment.",
     "Grasp cable rope attachment and lower the rope until your hands are placed next to your face.",
@@ -19,9 +18,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Cable_Crunch/0.jpg",
-    "Cable_Crunch/1.jpg"
-  ],
   "id": "Cable_Crunch"
 }

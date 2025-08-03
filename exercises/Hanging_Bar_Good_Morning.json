@@ -1,5 +1,6 @@
 {
   "name": "Hanging Bar Good Morning",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Slowly lower the weight back to the starting position, where it is supported by the chains."
   ],
   "category": "powerlifting",
-  "images": [
-    "Hanging_Bar_Good_Morning/0.jpg",
-    "Hanging_Bar_Good_Morning/1.jpg"
-  ],
   "id": "Hanging_Bar_Good_Morning"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Muscle Up",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,9 +24,5 @@
     "Use care when lowering yourself to the ground."
   ],
   "category": "strength",
-  "images": [
-    "Muscle_Up/0.jpg",
-    "Muscle_Up/1.jpg"
-  ],
   "id": "Muscle_Up"
 }

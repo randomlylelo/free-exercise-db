@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell One-Legged Deadlift",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "Continue lowering the kettlebell until you are parallel to the ground, and then return to the upright position."
   ],
   "category": "strength",
-  "images": [
-    "Kettlebell_One-Legged_Deadlift/0.jpg",
-    "Kettlebell_One-Legged_Deadlift/1.jpg"
-  ],
   "id": "Kettlebell_One-Legged_Deadlift"
 }

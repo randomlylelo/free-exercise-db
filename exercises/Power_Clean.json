@@ -1,5 +1,6 @@
 {
   "name": "Power Clean",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -45,9 +46,5 @@
     "Start over at Phase 1 and repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Power_Clean/0.jpg",
-    "Power_Clean/1.jpg"
-  ],
   "id": "Power_Clean"
 }

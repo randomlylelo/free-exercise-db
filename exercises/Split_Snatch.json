@@ -1,5 +1,6 @@
 {
   "name": "Split Snatch",
+  "altNames": [],
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -27,9 +28,5 @@
     "Carefully return the weight to floor."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Split_Snatch/0.jpg",
-    "Split_Snatch/1.jpg"
-  ],
   "id": "Split_Snatch"
 }

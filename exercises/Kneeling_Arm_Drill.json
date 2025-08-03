@@ -1,5 +1,6 @@
 {
   "name": "Kneeling Arm Drill",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": null,
@@ -17,9 +18,5 @@
     "Switch knees and repeat."
   ],
   "category": "plyometrics",
-  "images": [
-    "Kneeling_Arm_Drill/0.jpg",
-    "Kneeling_Arm_Drill/1.jpg"
-  ],
   "id": "Kneeling_Arm_Drill"
 }

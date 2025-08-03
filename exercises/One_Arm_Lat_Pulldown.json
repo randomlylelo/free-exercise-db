@@ -1,5 +1,6 @@
 {
   "name": "One Arm Lat Pulldown",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "For multiple repetitions, avoid completely returning the weight to keep tension on the muscles being worked."
   ],
   "category": "strength",
-  "images": [
-    "One_Arm_Lat_Pulldown/0.jpg",
-    "One_Arm_Lat_Pulldown/1.jpg"
-  ],
   "id": "One_Arm_Lat_Pulldown"
 }

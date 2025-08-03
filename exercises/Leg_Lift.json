@@ -1,5 +1,6 @@
 {
   "name": "Leg Lift",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "isolation",
@@ -18,9 +19,5 @@
     "Repeat the movement with the opposite leg."
   ],
   "category": "strength",
-  "images": [
-    "Leg_Lift/0.jpg",
-    "Leg_Lift/1.jpg"
-  ],
   "id": "Leg_Lift"
 }

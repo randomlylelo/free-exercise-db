@@ -1,5 +1,6 @@
 {
   "name": "Power Stairs",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -23,9 +24,5 @@
     "Repeat for 3-5 repetitions, and continue with a heavier weight, moving as fast as possible."
   ],
   "category": "strongman",
-  "images": [
-    "Power_Stairs/0.jpg",
-    "Power_Stairs/1.jpg"
-  ],
   "id": "Power_Stairs"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Chest And Front Of Shoulder Stretch",
+  "altNames": [],
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,9 +17,5 @@
     "Carefully lift the pole up and behind your head."
   ],
   "category": "stretching",
-  "images": [
-    "Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
-    "Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
-  ],
   "id": "Chest_And_Front_Of_Shoulder_Stretch"
 }

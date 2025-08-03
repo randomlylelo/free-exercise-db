@@ -1,5 +1,6 @@
 {
   "name": "Lying Dumbbell Tricep Extension",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -18,9 +19,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Lying_Dumbbell_Tricep_Extension/0.jpg",
-    "Lying_Dumbbell_Tricep_Extension/1.jpg"
-  ],
   "id": "Lying_Dumbbell_Tricep_Extension"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Kneeling Squat",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Reverse the motion, returning the torso to an upright position."
   ],
   "category": "powerlifting",
-  "images": [
-    "Kneeling_Squat/0.jpg",
-    "Kneeling_Squat/1.jpg"
-  ],
   "id": "Kneeling_Squat"
 }

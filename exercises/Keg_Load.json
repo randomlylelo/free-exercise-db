@@ -1,5 +1,6 @@
 {
   "name": "Keg Load",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -26,9 +27,5 @@
     "Return to the starting position to retrieve the next keg, and repeat until the event is completed."
   ],
   "category": "strongman",
-  "images": [
-    "Keg_Load/0.jpg",
-    "Keg_Load/1.jpg"
-  ],
   "id": "Keg_Load"
 }

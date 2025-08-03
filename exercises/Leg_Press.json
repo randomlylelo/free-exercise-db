@@ -1,5 +1,6 @@
 {
   "name": "Leg Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Repeat for the recommended amount of repetitions and ensure to lock the safety pins properly once you are done. You do not want that platform falling on you fully loaded."
   ],
   "category": "strength",
-  "images": [
-    "Leg_Press/0.jpg",
-    "Leg_Press/1.jpg"
-  ],
   "id": "Leg_Press"
 }

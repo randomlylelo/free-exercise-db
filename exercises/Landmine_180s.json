@@ -1,5 +1,6 @@
 {
   "name": "Landmine 180's",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Continue alternating the movement until the set is complete."
   ],
   "category": "strength",
-  "images": [
-    "Landmine_180s/0.jpg",
-    "Landmine_180s/1.jpg"
-  ],
   "id": "Landmine_180s"
 }

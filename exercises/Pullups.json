@@ -1,5 +1,6 @@
 {
   "name": "Pullups",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Repeat this motion for the prescribed amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Pullups/0.jpg",
-    "Pullups/1.jpg"
-  ],
   "id": "Pullups"
 }

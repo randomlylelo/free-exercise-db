@@ -1,5 +1,6 @@
 {
   "name": "One-Arm Kettlebell Split Snatch",
+  "altNames": [],
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Return to a standing position, holding the weight overhead, and bring the feet together. Lower the weight to return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "One-Arm_Kettlebell_Split_Snatch/0.jpg",
-    "One-Arm_Kettlebell_Split_Snatch/1.jpg"
-  ],
   "id": "One-Arm_Kettlebell_Split_Snatch"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Elbow Circles",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,9 +17,5 @@
     "Slowly make a circle with your elbows. Breathe out as you start the circle and breathe in as you complete the circle."
   ],
   "category": "stretching",
-  "images": [
-    "Elbow_Circles/0.jpg",
-    "Elbow_Circles/1.jpg"
-  ],
   "id": "Elbow_Circles"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Incline Bench Pull",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -21,9 +22,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Incline_Bench_Pull/0.jpg",
-    "Incline_Bench_Pull/1.jpg"
-  ],
   "id": "Incline_Bench_Pull"
 }

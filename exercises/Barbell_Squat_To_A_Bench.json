@@ -1,5 +1,6 @@
 {
   "name": "Barbell Squat To A Bench",
+  "altNames": [],
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -24,9 +25,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Barbell_Squat_To_A_Bench/0.jpg",
-    "Barbell_Squat_To_A_Bench/1.jpg"
-  ],
   "id": "Barbell_Squat_To_A_Bench"
 }

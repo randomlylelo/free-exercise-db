@@ -1,5 +1,6 @@
 {
   "name": "Wide Stance Barbell Squat",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -22,9 +23,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Wide_Stance_Barbell_Squat/0.jpg",
-    "Wide_Stance_Barbell_Squat/1.jpg"
-  ],
   "id": "Wide_Stance_Barbell_Squat"
 }

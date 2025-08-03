@@ -1,5 +1,6 @@
 {
   "name": "One-Arm Medicine Ball Slam",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Catch the ball on the bounce and continue for the desired number of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "One-Arm_Medicine_Ball_Slam/0.jpg",
-    "One-Arm_Medicine_Ball_Slam/1.jpg"
-  ],
   "id": "One-Arm_Medicine_Ball_Slam"
 }

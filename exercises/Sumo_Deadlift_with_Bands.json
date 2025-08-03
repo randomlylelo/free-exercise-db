@@ -1,5 +1,6 @@
 {
   "name": "Sumo Deadlift with Bands",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -24,9 +25,5 @@
     "Return the weight to the ground by bending at the hips and controlling the weight on the way down."
   ],
   "category": "powerlifting",
-  "images": [
-    "Sumo_Deadlift_with_Bands/0.jpg",
-    "Sumo_Deadlift_with_Bands/1.jpg"
-  ],
   "id": "Sumo_Deadlift_with_Bands"
 }

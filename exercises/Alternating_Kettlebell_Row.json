@@ -1,5 +1,6 @@
 {
   "name": "Alternating Kettlebell Row",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -17,9 +18,5 @@
     "Lower the kettlebell in the working arm and repeat with your other arm."
   ],
   "category": "strength",
-  "images": [
-    "Alternating_Kettlebell_Row/0.jpg",
-    "Alternating_Kettlebell_Row/1.jpg"
-  ],
   "id": "Alternating_Kettlebell_Row"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Snatch Deadlift",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "At that point, drive your hips through the bar as you lay back. Return the bar to the platform by reversing the motion."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Snatch_Deadlift/0.jpg",
-    "Snatch_Deadlift/1.jpg"
-  ],
   "id": "Snatch_Deadlift"
 }

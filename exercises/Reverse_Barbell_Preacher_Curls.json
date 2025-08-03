@@ -1,5 +1,6 @@
 {
   "name": "Reverse Barbell Preacher Curls",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -18,9 +19,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Reverse_Barbell_Preacher_Curls/0.jpg",
-    "Reverse_Barbell_Preacher_Curls/1.jpg"
-  ],
   "id": "Reverse_Barbell_Preacher_Curls"
 }

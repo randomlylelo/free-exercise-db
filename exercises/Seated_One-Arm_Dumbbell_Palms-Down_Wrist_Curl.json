@@ -1,5 +1,6 @@
 {
   "name": "Seated One-Arm Dumbbell Palms-Down Wrist Curl",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "isolation",
@@ -7,9 +8,7 @@
   "primaryMuscles": [
     "forearms"
   ],
-  "secondaryMuscles": [
-
-  ],
+  "secondaryMuscles": [],
   "instructions": [
     "Sit on a flat bench with a dumbbell in your right hand.",
     "Place your feet flat on the floor, at a distance that is slightly wider than shoulder width apart.",
@@ -19,9 +18,5 @@
     "Perform for the recommended amount of repetitions, switch arms and repeat the movement."
   ],
   "category": "strength",
-  "images": [
-    "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl/0.jpg",
-    "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl/1.jpg"
-  ],
   "id": "Seated_One-Arm_Dumbbell_Palms-Down_Wrist_Curl"
 }

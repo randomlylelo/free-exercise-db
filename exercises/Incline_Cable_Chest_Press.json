@@ -1,5 +1,6 @@
 {
   "name": "Incline Cable Chest Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "After pausing at full extension, return to the starting position, keeping tension on the cables."
   ],
   "category": "strength",
-  "images": [
-    "Incline_Cable_Chest_Press/0.jpg",
-    "Incline_Cable_Chest_Press/1.jpg"
-  ],
   "id": "Incline_Cable_Chest_Press"
 }

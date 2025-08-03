@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Hang Clean",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Lower kettlebell to a hanging position between your legs while keeping the hamstrings loaded. Keep your head up at all times."
   ],
   "category": "strength",
-  "images": [
-    "Kettlebell_Hang_Clean/0.jpg",
-    "Kettlebell_Hang_Clean/1.jpg"
-  ],
   "id": "Kettlebell_Hang_Clean"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Sumo High Pull",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Begin by extending the hips and knees, simultaneously pulling the kettlebell to your shoulders, raising your elbows as you do so. Reverse the motion to return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Kettlebell_Sumo_High_Pull/0.jpg",
-    "Kettlebell_Sumo_High_Pull/1.jpg"
-  ],
   "id": "Kettlebell_Sumo_High_Pull"
 }

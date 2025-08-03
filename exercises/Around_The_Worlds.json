@@ -1,5 +1,6 @@
 {
   "name": "Around The Worlds",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -16,9 +17,5 @@
     "Reverse the movement to return the weight to the starting position as you exhale."
   ],
   "category": "strength",
-  "images": [
-    "Around_The_Worlds/0.jpg",
-    "Around_The_Worlds/1.jpg"
-  ],
   "id": "Around_The_Worlds"
 }

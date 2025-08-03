@@ -1,5 +1,6 @@
 {
   "name": "Decline Barbell Bench Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "When you are done, place the bar back in the rack."
   ],
   "category": "strength",
-  "images": [
-    "Decline_Barbell_Bench_Press/0.jpg",
-    "Decline_Barbell_Bench_Press/1.jpg"
-  ],
   "id": "Decline_Barbell_Bench_Press"
 }

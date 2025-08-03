@@ -1,5 +1,6 @@
 {
   "name": "Linear Depth Jump",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Land softly, asborbing the impact through the legs."
   ],
   "category": "plyometrics",
-  "images": [
-    "Linear_Depth_Jump/0.jpg",
-    "Linear_Depth_Jump/1.jpg"
-  ],
   "id": "Linear_Depth_Jump"
 }

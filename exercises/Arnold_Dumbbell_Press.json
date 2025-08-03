@@ -1,5 +1,6 @@
 {
   "name": "Arnold Dumbbell Press",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -18,9 +19,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Arnold_Dumbbell_Press/0.jpg",
-    "Arnold_Dumbbell_Press/1.jpg"
-  ],
   "id": "Arnold_Dumbbell_Press"
 }

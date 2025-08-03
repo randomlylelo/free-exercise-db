@@ -1,5 +1,6 @@
 {
   "name": "Glute Kickback",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -17,9 +18,5 @@
     "Continue to alternate legs until all of the recommended repetitions have been performed."
   ],
   "category": "strength",
-  "images": [
-    "Glute_Kickback/0.jpg",
-    "Glute_Kickback/1.jpg"
-  ],
   "id": "Glute_Kickback"
 }

@@ -1,5 +1,6 @@
 {
   "name": "Kettlebell Dead Clean",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Lower the kettlebell, keeping the hamstrings loaded by keeping your back straight and your butt out."
   ],
   "category": "strength",
-  "images": [
-    "Kettlebell_Dead_Clean/0.jpg",
-    "Kettlebell_Dead_Clean/1.jpg"
-  ],
   "id": "Kettlebell_Dead_Clean"
 }

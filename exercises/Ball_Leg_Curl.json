@@ -1,5 +1,6 @@
 {
   "name": "Ball Leg Curl",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "isolation",
@@ -19,9 +20,5 @@
     "After a brief pause, return to the starting position."
   ],
   "category": "strength",
-  "images": [
-    "Ball_Leg_Curl/0.jpg",
-    "Ball_Leg_Curl/1.jpg"
-  ],
   "id": "Ball_Leg_Curl"
 }

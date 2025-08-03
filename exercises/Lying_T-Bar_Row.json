@@ -1,5 +1,6 @@
 {
   "name": "Lying T-Bar Row",
+  "altNames": [],
   "force": "pull",
   "level": "intermediate",
   "mechanic": "compound",
@@ -20,9 +21,5 @@
     "Repeat for the recommended amount of repetitions."
   ],
   "category": "strength",
-  "images": [
-    "Lying_T-Bar_Row/0.jpg",
-    "Lying_T-Bar_Row/1.jpg"
-  ],
   "id": "Lying_T-Bar_Row"
 }

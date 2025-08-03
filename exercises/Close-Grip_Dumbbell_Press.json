@@ -1,5 +1,6 @@
 {
   "name": "Close-Grip Dumbbell Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Return to the starting position by extending the elbows."
   ],
   "category": "strength",
-  "images": [
-    "Close-Grip_Dumbbell_Press/0.jpg",
-    "Close-Grip_Dumbbell_Press/1.jpg"
-  ],
   "id": "Close-Grip_Dumbbell_Press"
 }

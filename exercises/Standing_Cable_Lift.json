@@ -1,5 +1,6 @@
 {
   "name": "Standing Cable Lift",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "Then, reposition and repeat the same series of movements on the opposite side."
   ],
   "category": "strength",
-  "images": [
-    "Standing_Cable_Lift/0.jpg",
-    "Standing_Cable_Lift/1.jpg"
-  ],
   "id": "Standing_Cable_Lift"
 }

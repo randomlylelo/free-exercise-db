@@ -1,5 +1,6 @@
 {
   "name": "One-Arm Kettlebell Jerk",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Lower the weight to perform the next repetition."
   ],
   "category": "strength",
-  "images": [
-    "One-Arm_Kettlebell_Jerk/0.jpg",
-    "One-Arm_Kettlebell_Jerk/1.jpg"
-  ],
   "id": "One-Arm_Kettlebell_Jerk"
 }

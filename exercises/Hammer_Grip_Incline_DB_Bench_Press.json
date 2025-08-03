@@ -1,5 +1,6 @@
 {
   "name": "Hammer Grip Incline DB Bench Press",
+  "altNames": [],
   "force": "push",
   "level": "beginner",
   "mechanic": "compound",
@@ -21,9 +22,5 @@
     "When you are done, place the dumbbells back in your thighs and then on the floor. This is the safest manner to dispose of the dumbbells."
   ],
   "category": "strength",
-  "images": [
-    "Hammer_Grip_Incline_DB_Bench_Press/0.jpg",
-    "Hammer_Grip_Incline_DB_Bench_Press/1.jpg"
-  ],
   "id": "Hammer_Grip_Incline_DB_Bench_Press"
 }

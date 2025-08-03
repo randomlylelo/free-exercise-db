@@ -1,5 +1,6 @@
 {
   "name": "Power Jerk",
+  "altNames": [],
   "force": "push",
   "level": "expert",
   "mechanic": "compound",
@@ -23,9 +24,5 @@
     "Return to a standing position."
   ],
   "category": "olympic weightlifting",
-  "images": [
-    "Power_Jerk/0.jpg",
-    "Power_Jerk/1.jpg"
-  ],
   "id": "Power_Jerk"
 }

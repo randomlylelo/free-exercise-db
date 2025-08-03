@@ -1,5 +1,6 @@
 {
   "name": "One Arm Chin-Up",
+  "altNames": [],
   "force": "pull",
   "level": "expert",
   "mechanic": "compound",
@@ -22,9 +23,5 @@
     "Switch arms and repeat the movement."
   ],
   "category": "strength",
-  "images": [
-    "One_Arm_Chin-Up/0.jpg",
-    "One_Arm_Chin-Up/1.jpg"
-  ],
   "id": "One_Arm_Chin-Up"
 }

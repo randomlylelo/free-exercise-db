@@ -1,5 +1,6 @@
 {
   "name": "Dumbbell One-Arm Shoulder Press",
+  "altNames": [],
   "force": "push",
   "level": "intermediate",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "Repeat for the recommended amount of repetitions and then switch arms."
   ],
   "category": "strength",
-  "images": [
-    "Dumbbell_One-Arm_Shoulder_Press/0.jpg",
-    "Dumbbell_One-Arm_Shoulder_Press/1.jpg"
-  ],
   "id": "Dumbbell_One-Arm_Shoulder_Press"
 }

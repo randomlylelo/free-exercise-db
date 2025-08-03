@@ -1,5 +1,6 @@
 {
   "name": "Standing Biceps Stretch",
+  "altNames": [],
   "force": "static",
   "level": "beginner",
   "mechanic": "isolation",
@@ -16,9 +17,5 @@
     "Raise your arms up and hold until you feel a stretch in your biceps."
   ],
   "category": "stretching",
-  "images": [
-    "Standing_Biceps_Stretch/0.jpg",
-    "Standing_Biceps_Stretch/1.jpg"
-  ],
   "id": "Standing_Biceps_Stretch"
 }

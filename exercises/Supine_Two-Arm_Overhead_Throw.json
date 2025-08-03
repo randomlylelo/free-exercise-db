@@ -1,5 +1,6 @@
 {
   "name": "Supine Two-Arm Overhead Throw",
+  "altNames": [],
   "force": "pull",
   "level": "beginner",
   "mechanic": "compound",
@@ -19,9 +20,5 @@
     "The ball can be thrown to a partner or bounced off of a wall."
   ],
   "category": "plyometrics",
-  "images": [
-    "Supine_Two-Arm_Overhead_Throw/0.jpg",
-    "Supine_Two-Arm_Overhead_Throw/1.jpg"
-  ],
   "id": "Supine_Two-Arm_Overhead_Throw"
 }
